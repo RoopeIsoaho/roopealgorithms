@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Ant Colony\Scripts\Pheromone.cs">
+    <Files>
+      <File FileName="Assets\Ant Colony\Scripts\Pheromone.cs" Line="17" Column="21" />
+      <File FileName="Assets\Ant Colony\Scripts\Food.cs" Line="19" Column="5" />
+      <File FileName="Assets\Ant Colony\Scripts\Ant.cs" Line="37" Column="36" />
+      <File FileName="Assets\Ant Colony\Scripts\ACO_Manager.cs" Line="56" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

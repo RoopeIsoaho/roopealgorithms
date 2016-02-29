@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{33F5DAC6-D7BD-7932-47DE-BC39B3FED796}") = "roopealgorithms", "Assembly-CSharp.csproj", "{6CDF31E6-32C1-0FA2-7250-1B0E9BA9BDBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CDF31E6-32C1-0FA2-7250-1B0E9BA9BDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDF31E6-32C1-0FA2-7250-1B0E9BA9BDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDF31E6-32C1-0FA2-7250-1B0E9BA9BDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDF31E6-32C1-0FA2-7250-1B0E9BA9BDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
